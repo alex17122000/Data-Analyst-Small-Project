@@ -13,7 +13,3 @@ Review the matched company data. Highlight any missing or inconsistent fields. C
 
 3. Summary
 Document your process and insights. Focus on your logic, not just the tools used.
-
-4. Publish
-Share your work (GitHub or external link).
-5. Submit via the form provided.
