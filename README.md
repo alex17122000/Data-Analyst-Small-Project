@@ -1,4 +1,4 @@
-🔹 POC Overview
+POC Overview
 
 A manufacturing company is modernizing its Procurement systems, but struggles with a messy supplier database full of duplicates and outdated records. Leadership is pushing for a clear cost-saving strategy and is interested in sustainability, but resources are limited.
 They’re testing two solutions: a strong-performing newcomer and a reputable legacy provider. A decision will be made next quarter.
