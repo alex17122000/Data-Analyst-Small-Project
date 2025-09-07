@@ -25,7 +25,7 @@ Am inceput cu o abordare de tip fuzzy matching intre input_company_name si compa
 •	Website-ul
 •	LinkedIn-ul
 
-Apoi m-am gandit ca nu este corect ca un camp necompletat sa penalizeze scorul, asa ca am modificat logica: daca input_main_country lipseste, nu penalizez scorul, ba chiar adaug puncte ca sa nu dezavantajez entitatea. (M-am gandit ca, daca toate campurile se potrivesc in afara de unul singur, entitatea va fi mult dezavantajata, desi cel mai probabil este un MATCH.)
+Apoi m-am gandit ca nu este corect ca un camp necompletat sa penalizeze scorul, asa ca am modificat logica: daca input_main_country lipseste, nu penalizez scorul, ba chiar adaug puncte ca sa nu dezavantajez entitatea. (M-am gandit ca, daca toate campurile se potrivesc inafara de unul singur, entitatea va fi mult dezavantajata, desi cel mai probabil este un MATCH.)
 Am adaugat si o coloana numita score_justification pentru a documenta clar de ce fiecare companie a primit scorul respectiv (ex: "Fuzzy: 41.5p | Country: +20p (missing input)", etc).
 
 Verificarea calitatii datelor
